@@ -6,7 +6,7 @@ spring:
       server:
         git:
           default-label: develop
-          uri: https://github.com/juand0047/microservicos.git
+          uri: https://github.com/juand0047/microservicos
           search-paths: config-data
   application:
     name: config-service
